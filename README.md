@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acno74765
-- 👀 I’m interested in ...web development ,ethical hacking.
+- 👀 I’m interested in web development ,ethical hacking.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
